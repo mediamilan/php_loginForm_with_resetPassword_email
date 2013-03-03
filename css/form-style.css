@@ -1,0 +1,238 @@
+div.section p {
+    padding: 0 10px 20px;
+    line-height: 180%;
+}
+
+
+div.section {
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    background: #FFF;
+    padding: 15px 10px 10px;
+    max-width: 600px;
+    margin-bottom: 20px;
+    -moz-border-radius-topleft: 0;
+    -moz-border-radius-topright: 0;
+    -webkit-border-top-left-radius: 0;
+    -webkit-border-top-right-radius: 0;
+}
+
+
+textarea {
+    width: 90%;
+}
+
+input, textarea {
+    font-family:'Open Sans', Helvetica, sans-serif;font-weight:300;
+    font-size:18px;
+    color:#B7B7B7;
+    border: #CCC solid 1px;
+    border-color:#CCC; /* important for validator to find default color */
+    background: white;
+    /*-moz-border-radius: 4px;
+	 padding: 5px;
+    -webkit-border-radius: 4px;
+    -moz-box-shadow: inset 0 0 5px #EEE;
+    -webkit-box-shadow: inset 0 0 5px #EEE;
+    box-shadow: inset 0 0 5px #EEE;*/
+    color: #666;
+    width: 290px;
+	height:36px;
+	padding-left:10px;
+}
+
+input[type=checkbox], input[type=radio] {
+    width:auto;
+}
+
+input[type=submit] {
+   background:url(../images/mud_map_sign_up.jpg) no-repeat;
+	width:95px;
+	height:38px;
+	text-indent:-999999px;
+	line-height:1;
+    cursor: pointer;
+	border:none;
+	margin-left:108px;
+}
+input[type=submit]:hover {
+	background-position: 0 -90px;
+}
+
+.jquery_form_error_message {
+    margin: 5px 0 20px;
+    padding: 10px;
+    background: pink;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+}
+
+.error {
+	border-color:#E75057;
+}
+
+span.chars_left,
+span.jquery_form_error_message {
+    background: #f2f2f2;
+    padding: 0 2px;
+    font-weight: normal;
+    font-size: 90%;
+    color: #666;
+}
+
+span.jquery_form_error_message {
+    color: red;
+    display: block;
+    background: none;
+    margin: 0;
+    padding: 0;
+}
+
+em {
+    background: lightyellow;
+    font-size: 90%;
+    color: #81815c;
+    padding: 0 1px;
+}
+
+.jquery_form_help {
+    color:#999;
+    font-family: Georgia, "Times New Roman", serif;
+    margin-left: 4px;
+}
+.name,.last_name,.email,.confirm_email,.Password {
+	font-family:'Open Sans', Helvetica, sans-serif;font-weight:300;
+    font-size:18px;
+    color:#B7B7B7;
+}
+
+input:focus {
+	border-color:#1DB3E2;
+	font-family:'Open Sans', Helvetica, sans-serif;font-weight:300;
+    font-size:18px;
+    color:#707070;
+}
+.p1{
+	font-size:15px;
+	text-align:center;
+	line-height: 18px !important;
+    padding-bottom: 10px !important;
+}
+
+.p1 a {
+	color:#00b2e5;
+}
+
+@CHARSET "UTF-8";
+.sbHolder{
+	background-color: ;
+	border: #CCC solid 1px;
+	font-family:'Open Sans', Helvetica, sans-serif;font-weight:300;
+	font-size: 18px;
+	font-weight: normal;
+	width: 300px;
+	height:36px;
+	position: relative;
+
+}
+.sbHolder:focus .sbSelector{
+	
+}
+.sbSelector{
+	display: block;
+	height: 30px;
+	left: 0;
+	line-height: 30px;
+	outline: none;
+	overflow: hidden;
+	position: absolute;
+	text-indent: 10px;
+	top: 0;
+	width: 170px;
+}
+.sbSelector:link, .sbSelector:visited, .sbSelector:hover{
+	color: #B7B7B7;
+	outline: none;
+	text-decoration: none;
+}
+.sbToggle{
+	background: url(../images/select-icons.png) no-repeat;
+	background-position: 5px 10px;
+	display: block;
+	height: 30px;
+	outline: none;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 30px;
+}
+
+
+.sbHolderDisabled{
+	background-color: #3C3C3C;
+	border: solid 1px #515151;
+}
+.sbHolderDisabled .sbHolder{
+	
+}
+.sbHolderDisabled .sbToggle{
+	
+}
+.sbOptions{
+	background-color: #ffffff;
+	border: solid 1px #515151;
+	list-style: none;
+	left: -1px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 30px;
+	width: 300px;
+	z-index: 1;
+	overflow-y: auto;
+}
+.sbOptions li{
+	padding: 0 7px;
+}
+.sbOptions a{
+	border-bottom: dotted 1px #515151;
+	display: block;
+	outline: none;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions a:link, .sbOptions a:visited{
+	color: #ddd;
+	text-decoration: none;
+}
+.sbOptions a:hover,
+.sbOptions a:focus,
+.sbOptions a.sbFocus{
+	color: #707070;
+}
+.sbOptions li.last a{
+	border-bottom: none;
+}
+.sbOptions .sbDisabled{
+	border-bottom: dotted 1px #515151;
+	color: #999;
+	display: block;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions .sbGroup{
+	border-bottom: dotted 1px #515151;
+	color: #EBB52D;
+	display: block;
+	font-weight: bold;
+	padding: 7px 0 7px 3px;
+}
+.sbOptions .sbSub{
+	padding-left: 17px;
+}
+
+.only-IE {
+	display: none;
+}
+
+.ie7 .only-IE, .ie8 .only-IE {
+	display: inline-block;
+}

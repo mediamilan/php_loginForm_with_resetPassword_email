@@ -1,0 +1,242 @@
+<option selected="<?php if($_POST['map_country'] == ""){ echo "selected"; } ?>" value="">Select Country</option>
+						  <option selected="<?php if($_POST['map_country'] == "United States"){ echo "selected"; } ?>" value="United States">United States</option>
+						  <option selected="<?php if($_POST['map_country'] == "United Kingdom"){ echo "selected"; } ?>" value="United Kingdom">United Kingdom</option>
+						  <option selected="<?php if($_POST['map_country'] == "Afghanistan"){ echo "selected"; } ?>" value="Afghanistan">Afghanistan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Albania"){ echo "selected"; } ?>" value="Albania">Albania</option>
+						  <option selected="<?php if($_POST['map_country'] == "Algeria"){ echo "selected"; } ?>" value="Algeria">Algeria</option>
+						  <option selected="<?php if($_POST['map_country'] == "American Samoa"){ echo "selected"; } ?>" value="American Samoa">American Samoa</option>
+						  <option selected="<?php if($_POST['map_country'] == "Andorra"){ echo "selected"; } ?>" value="Andorra">Andorra</option>
+						  <option selected="<?php if($_POST['map_country'] == "Angola"){ echo "selected"; } ?>" value="Angola">Angola</option>
+						  <option selected="<?php if($_POST['map_country'] == "Anguilla"){ echo "selected"; } ?>" value="Anguilla">Anguilla</option>
+						  <option selected="<?php if($_POST['map_country'] == "Antarctica"){ echo "selected"; } ?>" value="Antarctica">Antarctica</option>
+						  <option selected="<?php if($_POST['map_country'] == "Antigua and Barbuda"){ echo "selected"; } ?>" value="Antigua and Barbuda">Antigua and Barbuda</option>
+						  <option selected="<?php if($_POST['map_country'] == "Argentina"){ echo "selected"; } ?>" value="Argentina">Argentina</option>
+						  <option selected="<?php if($_POST['map_country'] == "Armenia"){ echo "selected"; } ?>" value="Armenia">Armenia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Aruba"){ echo "selected"; } ?>" value="Aruba">Aruba</option>
+						  <option selected="<?php if($_POST['map_country'] == "Australia"){ echo "selected"; } ?>" value="Australia">Australia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Austria"){ echo "selected"; } ?>" value="Austria">Austria</option>
+						  <option selected="<?php if($_POST['map_country'] == "Azerbaijan"){ echo "selected"; } ?>" value="Azerbaijan">Azerbaijan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Bahamas"){ echo "selected"; } ?>" value="Bahamas">Bahamas</option>
+						  <option selected="<?php if($_POST['map_country'] == "Bahrain"){ echo "selected"; } ?>" value="Bahrain">Bahrain</option>
+						  <option selected="<?php if($_POST['map_country'] == "Bangladesh"){ echo "selected"; } ?>" value="Bangladesh">Bangladesh</option>
+						  <option selected="<?php if($_POST['map_country'] == "Barbados"){ echo "selected"; } ?>" value="Barbados">Barbados</option>
+						  <option selected="<?php if($_POST['map_country'] == "Belarus"){ echo "selected"; } ?>" value="Belarus">Belarus</option>
+						  <option selected="<?php if($_POST['map_country'] == "Belgium"){ echo "selected"; } ?>" value="Belgium">Belgium</option>
+						  <option selected="<?php if($_POST['map_country'] == "Belize"){ echo "selected"; } ?>" value="Belize">Belize</option>
+						  <option selected="<?php if($_POST['map_country'] == "Benin"){ echo "selected"; } ?>" value="Benin">Benin</option>
+						  <option selected="<?php if($_POST['map_country'] == "Bermuda"){ echo "selected"; } ?>" value="Bermuda">Bermuda</option>
+						  <option selected="<?php if($_POST['map_country'] == "Bhutan"){ echo "selected"; } ?>" value="Bhutan">Bhutan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Bolivia"){ echo "selected"; } ?>" value="Bolivia">Bolivia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Bosnia and Herzegovina"){ echo "selected"; } ?>" value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+						  <option selected="<?php if($_POST['map_country'] == "Botswana"){ echo "selected"; } ?>" value="Botswana">Botswana</option>
+						  <option selected="<?php if($_POST['map_country'] == "Bouvet Island"){ echo "selected"; } ?>" value="Bouvet Island">Bouvet Island</option>
+						  <option selected="<?php if($_POST['map_country'] == "Brazil"){ echo "selected"; } ?>" value="Brazil">Brazil</option>
+						  <option selected="<?php if($_POST['map_country'] == "British Indian Ocean Territory"){ echo "selected"; } ?>" value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+						  <option selected="<?php if($_POST['map_country'] == "Brunei Darussalam"){ echo "selected"; } ?>" value="Brunei Darussalam">Brunei Darussalam</option>
+						  <option selected="<?php if($_POST['map_country'] == "Bulgaria"){ echo "selected"; } ?>" value="Bulgaria">Bulgaria</option>
+						  <option selected="<?php if($_POST['map_country'] == "Burkina Faso"){ echo "selected"; } ?>" value="Burkina Faso">Burkina Faso</option>
+						  <option selected="<?php if($_POST['map_country'] == "Burundi"){ echo "selected"; } ?>" value="Burundi">Burundi</option>
+						  <option selected="<?php if($_POST['map_country'] == "Cambodia"){ echo "selected"; } ?>" value="Cambodia">Cambodia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Cameroon"){ echo "selected"; } ?>" value="Cameroon">Cameroon</option>
+						  <option selected="<?php if($_POST['map_country'] == "Canada"){ echo "selected"; } ?>" value="Canada">Canada</option>
+						  <option selected="<?php if($_POST['map_country'] == "Cape Verde"){ echo "selected"; } ?>" value="Cape Verde">Cape Verde</option>
+						  <option selected="<?php if($_POST['map_country'] == "Cayman Islands"){ echo "selected"; } ?>" value="Cayman Islands">Cayman Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Central African Republic"){ echo "selected"; } ?>" value="Central African Republic">Central African Republic</option>
+						  <option selected="<?php if($_POST['map_country'] == "Chad"){ echo "selected"; } ?>" value="Chad">Chad</option>
+						  <option selected="<?php if($_POST['map_country'] == "Chile"){ echo "selected"; } ?>" value="Chile">Chile</option>
+						  <option selected="<?php if($_POST['map_country'] == "China"){ echo "selected"; } ?>" value="China">China</option>
+						  <option selected="<?php if($_POST['map_country'] == "Christmas Island"){ echo "selected"; } ?>" value="Christmas Island">Christmas Island</option>
+						  <option selected="<?php if($_POST['map_country'] == "Cocos (Keeling) Islands"){ echo "selected"; } ?>" value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Comoros"){ echo "selected"; } ?>" value="Colombia">Colombia</option>
+						  <option selected="<?php if($_POST['map_country'] == ""){ echo "selected"; } ?>" value="Comoros">Comoros</option>
+						  <option selected="<?php if($_POST['map_country'] == "Congo"){ echo "selected"; } ?>" value="Congo">Congo</option>
+						  <option selected="<?php if($_POST['map_country'] == "Congo, The Democratic Republic of The"){ echo "selected"; } ?>" value="Congo, The Democratic Republic of The">Congo, The Democratic Republic of The</option>
+						  <option selected="<?php if($_POST['map_country'] == "Cook Islands"){ echo "selected"; } ?>" value="Cook Islands">Cook Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Costa Rica"){ echo "selected"; } ?>" value="Costa Rica">Costa Rica</option>
+						  <option selected="<?php if($_POST['map_country'] == "Cote D'ivoire"){ echo "selected"; } ?>" value="Cote D'ivoire">Cote D'ivoire</option>
+						  <option selected="<?php if($_POST['map_country'] == "Croatia"){ echo "selected"; } ?>" value="Croatia">Croatia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Cuba"){ echo "selected"; } ?>" value="Cuba">Cuba</option>
+						  <option selected="<?php if($_POST['map_country'] == "Cyprus"){ echo "selected"; } ?>" value="Cyprus">Cyprus</option>
+						  <option selected="<?php if($_POST['map_country'] == "Czech Republic"){ echo "selected"; } ?>" value="Czech Republic">Czech Republic</option>
+						  <option selected="<?php if($_POST['map_country'] == "Denmark"){ echo "selected"; } ?>" value="Denmark">Denmark</option>
+						  <option selected="<?php if($_POST['map_country'] == "Djibouti"){ echo "selected"; } ?>" value="Djibouti">Djibouti</option>
+						  <option selected="<?php if($_POST['map_country'] == "Dominica"){ echo "selected"; } ?>" value="Dominica">Dominica</option>
+						  <option selected="<?php if($_POST['map_country'] == "Dominican Republic"){ echo "selected"; } ?>" value="Dominican Republic">Dominican Republic</option>
+						  <option selected="<?php if($_POST['map_country'] == "Ecuador"){ echo "selected"; } ?>" value="Ecuador">Ecuador</option>
+						  <option selected="<?php if($_POST['map_country'] == "Egypt"){ echo "selected"; } ?>" value="Egypt">Egypt</option>
+						  <option selected="<?php if($_POST['map_country'] == "El Salvador"){ echo "selected"; } ?>" value="El Salvador">El Salvador</option>
+						  <option selected="<?php if($_POST['map_country'] == "Equatorial Guinea"){ echo "selected"; } ?>" value="Equatorial Guinea">Equatorial Guinea</option>
+						  <option selected="<?php if($_POST['map_country'] == "Eritrea"){ echo "selected"; } ?>" value="Eritrea">Eritrea</option>
+						  <option selected="<?php if($_POST['map_country'] == "Estonia"){ echo "selected"; } ?>" value="Estonia">Estonia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Ethiopia"){ echo "selected"; } ?>" value="Ethiopia">Ethiopia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Falkland Islands (Malvinas)"){ echo "selected"; } ?>" value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option>
+						  <option selected="<?php if($_POST['map_country'] == "Faroe Islands"){ echo "selected"; } ?>" value="Faroe Islands">Faroe Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Fiji"){ echo "selected"; } ?>" value="Fiji">Fiji</option>
+						  <option selected="<?php if($_POST['map_country'] == "Finland"){ echo "selected"; } ?>" value="Finland">Finland</option>
+						  <option selected="<?php if($_POST['map_country'] == "France"){ echo "selected"; } ?>" value="France">France</option>
+						  <option selected="<?php if($_POST['map_country'] == "French Guiana"){ echo "selected"; } ?>" value="French Guiana">French Guiana</option>
+						  <option selected="<?php if($_POST['map_country'] == "French Polynesia"){ echo "selected"; } ?>" value="French Polynesia">French Polynesia</option>
+						  <option selected="<?php if($_POST['map_country'] == "French Southern Territories"){ echo "selected"; } ?>" value="French Southern Territories">French Southern Territories</option>
+						  <option selected="<?php if($_POST['map_country'] == "Gabon"){ echo "selected"; } ?>" value="Gabon">Gabon</option>
+						  <option selected="<?php if($_POST['map_country'] == "Gambia"){ echo "selected"; } ?>" value="Gambia">Gambia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Georgia"){ echo "selected"; } ?>" value="Georgia">Georgia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Germany"){ echo "selected"; } ?>" value="Germany">Germany</option>
+						  <option selected="<?php if($_POST['map_country'] == "Ghana"){ echo "selected"; } ?>" value="Ghana">Ghana</option>
+						  <option selected="<?php if($_POST['map_country'] == "Gibraltar"){ echo "selected"; } ?>" value="Gibraltar">Gibraltar</option>
+						  <option selected="<?php if($_POST['map_country'] == "Greece"){ echo "selected"; } ?>" value="Greece">Greece</option>
+						  <option selected="<?php if($_POST['map_country'] == "Greenland"){ echo "selected"; } ?>" value="Greenland">Greenland</option>
+						  <option selected="<?php if($_POST['map_country'] == "Grenada"){ echo "selected"; } ?>" value="Grenada">Grenada</option>
+						  <option selected="<?php if($_POST['map_country'] == "Guadeloupe"){ echo "selected"; } ?>" value="Guadeloupe">Guadeloupe</option>
+						  <option selected="<?php if($_POST['map_country'] == "Guam"){ echo "selected"; } ?>" value="Guam">Guam</option>
+						  <option selected="<?php if($_POST['map_country'] == "Guatemala"){ echo "selected"; } ?>" value="Guatemala">Guatemala</option>
+						  <option selected="<?php if($_POST['map_country'] == "Guinea"){ echo "selected"; } ?>" value="Guinea">Guinea</option>
+						  <option selected="<?php if($_POST['map_country'] == "Guinea-bissau"){ echo "selected"; } ?>" value="Guinea-bissau">Guinea-bissau</option>
+						  <option selected="<?php if($_POST['map_country'] == "Guyana"){ echo "selected"; } ?>" value="Guyana">Guyana</option>
+						  <option selected="<?php if($_POST['map_country'] == "Haiti"){ echo "selected"; } ?>" value="Haiti">Haiti</option>
+						  <option selected="<?php if($_POST['map_country'] == "Heard Island and Mcdonald Islands"){ echo "selected"; } ?>" value="Heard Island and Mcdonald Islands">Heard Island and Mcdonald Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Holy See (Vatican City State)"){ echo "selected"; } ?>" value="Holy See (Vatican City State)">Holy See (Vatican City State)</option>
+						  <option selected="<?php if($_POST['map_country'] == "Honduras"){ echo "selected"; } ?>" value="Honduras">Honduras</option>
+						  <option selected="<?php if($_POST['map_country'] == "Hong Kong"){ echo "selected"; } ?>" value="Hong Kong">Hong Kong</option>
+						  <option selected="<?php if($_POST['map_country'] == "Hungary"){ echo "selected"; } ?>" value="Hungary">Hungary</option>
+						  <option selected="<?php if($_POST['map_country'] == "Iceland"){ echo "selected"; } ?>" value="Iceland">Iceland</option>
+						  <option selected="<?php if($_POST['map_country'] == "India"){ echo "selected"; } ?>" value="India">India</option>
+						  <option selected="<?php if($_POST['map_country'] == "Indonesia"){ echo "selected"; } ?>" value="Indonesia">Indonesia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Iran, Islamic Republic of"){ echo "selected"; } ?>" value="Iran, Islamic Republic of">Iran, Islamic Republic of</option>
+						  <option selected="<?php if($_POST['map_country'] == "Iraq"){ echo "selected"; } ?>" value="Iraq">Iraq</option>
+						  <option selected="<?php if($_POST['map_country'] == "Ireland"){ echo "selected"; } ?>" value="Ireland">Ireland</option>
+						  <option selected="<?php if($_POST['map_country'] == "Israel"){ echo "selected"; } ?>" value="Israel">Israel</option>
+						  <option selected="<?php if($_POST['map_country'] == "Italy"){ echo "selected"; } ?>" value="Italy">Italy</option>
+						  <option selected="<?php if($_POST['map_country'] == "Jamaica"){ echo "selected"; } ?>" value="Jamaica">Jamaica</option>
+						  <option selected="<?php if($_POST['map_country'] == "Japan"){ echo "selected"; } ?>" value="Japan">Japan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Jordan"){ echo "selected"; } ?>" value="Jordan">Jordan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Kazakhstan"){ echo "selected"; } ?>" value="Kazakhstan">Kazakhstan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Kenya"){ echo "selected"; } ?>" value="Kenya">Kenya</option>
+						  <option selected="<?php if($_POST['map_country'] == "Kiribati"){ echo "selected"; } ?>" value="Kiribati">Kiribati</option>
+						  <option selected="<?php if($_POST['map_country'] == "Korea, Democratic People's Republic of"){ echo "selected"; } ?>" value="Korea, Democratic People's Republic of">Korea, Democratic People's Republic of</option>
+						  <option selected="<?php if($_POST['map_country'] == "Korea, Republic of"){ echo "selected"; } ?>" value="Korea, Republic of">Korea, Republic of</option>
+						  <option selected="<?php if($_POST['map_country'] == "Kuwait"){ echo "selected"; } ?>" value="Kuwait">Kuwait</option>
+						  <option selected="<?php if($_POST['map_country'] == "Kyrgyzstan"){ echo "selected"; } ?>" value="Kyrgyzstan">Kyrgyzstan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Lao People's Democratic Republic"){ echo "selected"; } ?>" value="Lao People's Democratic Republic">Lao People's Democratic Republic</option>
+						  <option selected="<?php if($_POST['map_country'] == "Latvia"){ echo "selected"; } ?>" value="Latvia">Latvia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Lebanon"){ echo "selected"; } ?>" value="Lebanon">Lebanon</option>
+						  <option selected="<?php if($_POST['map_country'] == "Lesotho"){ echo "selected"; } ?>" value="Lesotho">Lesotho</option>
+						  <option selected="<?php if($_POST['map_country'] == "Liberia"){ echo "selected"; } ?>" value="Liberia">Liberia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Libyan Arab Jamahiriya"){ echo "selected"; } ?>" value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option>
+						  <option selected="<?php if($_POST['map_country'] == "Liechtenstein"){ echo "selected"; } ?>" value="Liechtenstein">Liechtenstein</option>
+						  <option selected="<?php if($_POST['map_country'] == "Lithuania"){ echo "selected"; } ?>" value="Lithuania">Lithuania</option>
+						  <option selected="<?php if($_POST['map_country'] == "Luxembourg"){ echo "selected"; } ?>" value="Luxembourg">Luxembourg</option>
+						  <option selected="<?php if($_POST['map_country'] == "Macao"){ echo "selected"; } ?>" value="Macao">Macao</option>
+						  <option selected="<?php if($_POST['map_country'] == "Macedonia, The Former Yugoslav Republic of"){ echo "selected"; } ?>" value="Macedonia, The Former Yugoslav Republic of">Macedonia, The Former Yugoslav Republic of</option>
+						  <option selected="<?php if($_POST['map_country'] == "Madagascar"){ echo "selected"; } ?>" value="Madagascar">Madagascar</option>
+						  <option selected="<?php if($_POST['map_country'] == "Malawi"){ echo "selected"; } ?>" value="Malawi">Malawi</option>
+						  <option selected="<?php if($_POST['map_country'] == "Malaysia"){ echo "selected"; } ?>" value="Malaysia">Malaysia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Maldives"){ echo "selected"; } ?>" value="Maldives">Maldives</option>
+						  <option selected="<?php if($_POST['map_country'] == "Mali"){ echo "selected"; } ?>" value="Mali">Mali</option>
+						  <option selected="<?php if($_POST['map_country'] == "Malta"){ echo "selected"; } ?>" value="Malta">Malta</option>
+						  <option selected="<?php if($_POST['map_country'] == "Marshall Islands"){ echo "selected"; } ?>" value="Marshall Islands">Marshall Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Martinique"){ echo "selected"; } ?>" value="Martinique">Martinique</option>
+						  <option selected="<?php if($_POST['map_country'] == "Mauritania"){ echo "selected"; } ?>" value="Mauritania">Mauritania</option>
+						  <option selected="<?php if($_POST['map_country'] == "Mauritius"){ echo "selected"; } ?>" value="Mauritius">Mauritius</option>
+						  <option selected="<?php if($_POST['map_country'] == "Mayotte"){ echo "selected"; } ?>" value="Mayotte">Mayotte</option>
+						  <option selected="<?php if($_POST['map_country'] == "Mexico"){ echo "selected"; } ?>" value="Mexico">Mexico</option>
+						  <option selected="<?php if($_POST['map_country'] == "Micronesia, Federated States of"){ echo "selected"; } ?>" value="Micronesia, Federated States of">Micronesia, Federated States of</option>
+						  <option selected="<?php if($_POST['map_country'] == "Moldova, Republic of"){ echo "selected"; } ?>" value="Moldova, Republic of">Moldova, Republic of</option>
+						  <option selected="<?php if($_POST['map_country'] == "Monaco"){ echo "selected"; } ?>" value="Monaco">Monaco</option>
+						  <option selected="<?php if($_POST['map_country'] == "Mongolia"){ echo "selected"; } ?>" value="Mongolia">Mongolia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Montserrat"){ echo "selected"; } ?>" value="Montserrat">Montserrat</option>
+						  <option selected="<?php if($_POST['map_country'] == "Morocco"){ echo "selected"; } ?>" value="Morocco">Morocco</option>
+						  <option selected="<?php if($_POST['map_country'] == "Mozambique"){ echo "selected"; } ?>" value="Mozambique">Mozambique</option>
+						  <option selected="<?php if($_POST['map_country'] == "Myanmar"){ echo "selected"; } ?>" value="Myanmar">Myanmar</option>
+						  <option selected="<?php if($_POST['map_country'] == "Namibia"){ echo "selected"; } ?>" value="Namibia">Namibia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Nauru"){ echo "selected"; } ?>" value="Nauru">Nauru</option>
+						  <option selected="<?php if($_POST['map_country'] == "Nepal"){ echo "selected"; } ?>" value="Nepal">Nepal</option>
+						  <option selected="<?php if($_POST['map_country'] == "Netherlands"){ echo "selected"; } ?>" value="Netherlands">Netherlands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Netherlands Antilles"){ echo "selected"; } ?>" value="Netherlands Antilles">Netherlands Antilles</option>
+						  <option selected="<?php if($_POST['map_country'] == "New Caledonia"){ echo "selected"; } ?>" value="New Caledonia">New Caledonia</option>
+						  <option selected="<?php if($_POST['map_country'] == "New Zealand"){ echo "selected"; } ?>" value="New Zealand">New Zealand</option>
+						  <option selected="<?php if($_POST['map_country'] == "Nicaragua"){ echo "selected"; } ?>" value="Nicaragua">Nicaragua</option>
+						  <option selected="<?php if($_POST['map_country'] == "Niger"){ echo "selected"; } ?>" value="Niger">Niger</option>
+						  <option selected="<?php if($_POST['map_country'] == "Nigeria"){ echo "selected"; } ?>" value="Nigeria">Nigeria</option>
+						  <option selected="<?php if($_POST['map_country'] == "Niue"){ echo "selected"; } ?>" value="Niue">Niue</option>
+						  <option selected="<?php if($_POST['map_country'] == "Norfolk Island"){ echo "selected"; } ?>" value="Norfolk Island">Norfolk Island</option>
+						  <option selected="<?php if($_POST['map_country'] == "Northern Mariana Islands"){ echo "selected"; } ?>" value="Northern Mariana Islands">Northern Mariana Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Norway"){ echo "selected"; } ?>" value="Norway">Norway</option>
+						  <option selected="<?php if($_POST['map_country'] == "Oman"){ echo "selected"; } ?>" value="Oman">Oman</option>
+						  <option selected="<?php if($_POST['map_country'] == "Pakistan"){ echo "selected"; } ?>" value="Pakistan">Pakistan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Palau"){ echo "selected"; } ?>" value="Palau">Palau</option>
+						  <option selected="<?php if($_POST['map_country'] == "Palestinian Territory, Occupied"){ echo "selected"; } ?>" value="Palestinian Territory, Occupied">Palestinian Territory, Occupied</option>
+						  <option selected="<?php if($_POST['map_country'] == "Panama"){ echo "selected"; } ?>" value="Panama">Panama</option>
+						  <option selected="<?php if($_POST['map_country'] == "Papua New Guinea"){ echo "selected"; } ?>" value="Papua New Guinea">Papua New Guinea</option>
+						  <option selected="<?php if($_POST['map_country'] == "Paraguay"){ echo "selected"; } ?>" value="Paraguay">Paraguay</option>
+						  <option selected="<?php if($_POST['map_country'] == "Peru"){ echo "selected"; } ?>" value="Peru">Peru</option>
+						  <option selected="<?php if($_POST['map_country'] == "Philippines"){ echo "selected"; } ?>" value="Philippines">Philippines</option>
+						  <option selected="<?php if($_POST['map_country'] == "Pitcairn"){ echo "selected"; } ?>" value="Pitcairn">Pitcairn</option>
+						  <option selected="<?php if($_POST['map_country'] == "Poland"){ echo "selected"; } ?>" value="Poland">Poland</option>
+						  <option selected="<?php if($_POST['map_country'] == "Portugal"){ echo "selected"; } ?>" value="Portugal">Portugal</option>
+						  <option selected="<?php if($_POST['map_country'] == "Puerto Rico"){ echo "selected"; } ?>" value="Puerto Rico">Puerto Rico</option>
+						  <option selected="<?php if($_POST['map_country'] == "Qatar"){ echo "selected"; } ?>" value="Qatar">Qatar</option>
+						  <option selected="<?php if($_POST['map_country'] == "Reunion"){ echo "selected"; } ?>" value="Reunion">Reunion</option>
+						  <option selected="<?php if($_POST['map_country'] == "Romania"){ echo "selected"; } ?>" value="Romania">Romania</option>
+						  <option selected="<?php if($_POST['map_country'] == "Russian Federation"){ echo "selected"; } ?>" value="Russian Federation">Russian Federation</option>
+						  <option selected="<?php if($_POST['map_country'] == "Rwanda"){ echo "selected"; } ?>" value="Rwanda">Rwanda</option>
+						  <option selected="<?php if($_POST['map_country'] == "Saint Helena"){ echo "selected"; } ?>" value="Saint Helena">Saint Helena</option>
+						  <option selected="<?php if($_POST['map_country'] == "Saint Kitts and Nevis"){ echo "selected"; } ?>" value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+						  <option selected="<?php if($_POST['map_country'] == "Saint Lucia"){ echo "selected"; } ?>" value="Saint Lucia">Saint Lucia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Saint Pierre and Miquelon"){ echo "selected"; } ?>" value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option>
+						  <option selected="<?php if($_POST['map_country'] == "Saint Vincent and The Grenadines"){ echo "selected"; } ?>" value="Saint Vincent and The Grenadines">Saint Vincent and The Grenadines</option>
+						  <option selected="<?php if($_POST['map_country'] == "Samoa"){ echo "selected"; } ?>" value="Samoa">Samoa</option>
+						  <option selected="<?php if($_POST['map_country'] == "San Marino"){ echo "selected"; } ?>" value="San Marino">San Marino</option>
+						  <option selected="<?php if($_POST['map_country'] == "Sao Tome and Princip"){ echo "selected"; } ?>" value="Sao Tome and Principe">Sao Tome and Principe</option>
+						  <option selected="<?php if($_POST['map_country'] == "Saudi Arabia"){ echo "selected"; } ?>" value="Saudi Arabia">Saudi Arabia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Senegal"){ echo "selected"; } ?>" value="Senegal">Senegal</option>
+						  <option selected="<?php if($_POST['map_country'] == "Serbia and Montenegro"){ echo "selected"; } ?>" value="Serbia and Montenegro">Serbia and Montenegro</option>
+						  <option selected="<?php if($_POST['map_country'] == "Seychelles"){ echo "selected"; } ?>" value="Seychelles">Seychelles</option>
+						  <option selected="<?php if($_POST['map_country'] == "Sierra Leone"){ echo "selected"; } ?>" value="Sierra Leone">Sierra Leone</option>
+						  <option selected="<?php if($_POST['map_country'] == "Singapore"){ echo "selected"; } ?>" value="Singapore">Singapore</option>
+						  <option selected="<?php if($_POST['map_country'] == "Slovakia"){ echo "selected"; } ?>" value="Slovakia">Slovakia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Slovenia"){ echo "selected"; } ?>" value="Slovenia">Slovenia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Solomon Islands"){ echo "selected"; } ?>" value="Solomon Islands">Solomon Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Somalia"){ echo "selected"; } ?>" value="Somalia">Somalia</option>
+						  <option selected="<?php if($_POST['map_country'] == "South Africa"){ echo "selected"; } ?>" value="South Africa">South Africa</option>
+						  <option selected="<?php if($_POST['map_country'] == "South Georgia and The South Sandwich Islands"){ echo "selected"; } ?>" value="South Georgia and The South Sandwich Islands">South Georgia and The South Sandwich Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Spain"){ echo "selected"; } ?>" value="Spain">Spain</option>
+						  <option selected="<?php if($_POST['map_country'] == "Sri Lanka"){ echo "selected"; } ?>" value="Sri Lanka">Sri Lanka</option>
+						  <option selected="<?php if($_POST['map_country'] == "Sudan"){ echo "selected"; } ?>" value="Sudan">Sudan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Suriname"){ echo "selected"; } ?>" value="Suriname">Suriname</option>
+						  <option selected="<?php if($_POST['map_country'] == "Svalbard and Jan Mayen"){ echo "selected"; } ?>" value="Svalbard and Jan Mayen">Svalbard and Jan Mayen</option>
+						  <option selected="<?php if($_POST['map_country'] == "Swaziland"){ echo "selected"; } ?>" value="Swaziland">Swaziland</option>
+						  <option selected="<?php if($_POST['map_country'] == "Sweden"){ echo "selected"; } ?>" value="Sweden">Sweden</option>
+						  <option selected="<?php if($_POST['map_country'] == "Switzerland"){ echo "selected"; } ?>" value="Switzerland">Switzerland</option>
+						  <option selected="<?php if($_POST['map_country'] == "Syrian Arab Republic"){ echo "selected"; } ?>" value="Syrian Arab Republic">Syrian Arab Republic</option>
+						  <option selected="<?php if($_POST['map_country'] == "Taiwan, Province of China"){ echo "selected"; } ?>" value="Taiwan, Province of China">Taiwan, Province of China</option>
+						  <option selected="<?php if($_POST['map_country'] == "Tajikistan"){ echo "selected"; } ?>" value="Tajikistan">Tajikistan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Tanzania, United Republic of"){ echo "selected"; } ?>" value="Tanzania, United Republic of">Tanzania, United Republic of</option>
+						  <option selected="<?php if($_POST['map_country'] == "Thailand"){ echo "selected"; } ?>" value="Thailand">Thailand</option>
+						  <option selected="<?php if($_POST['map_country'] == "Timor-leste"){ echo "selected"; } ?>" value="Timor-leste">Timor-leste</option>
+						  <option selected="<?php if($_POST['map_country'] == "Togo"){ echo "selected"; } ?>" value="Togo">Togo</option>
+						  <option selected="<?php if($_POST['map_country'] == "Tokelau"){ echo "selected"; } ?>" value="Tokelau">Tokelau</option>
+						  <option selected="<?php if($_POST['map_country'] == "Tonga"){ echo "selected"; } ?>" value="Tonga">Tonga</option>
+						  <option selected="<?php if($_POST['map_country'] == "Trinidad and Tobago"){ echo "selected"; } ?>" value="Trinidad and Tobago">Trinidad and Tobago</option>
+						  <option selected="<?php if($_POST['map_country'] == "Tunisia"){ echo "selected"; } ?>" value="Tunisia">Tunisia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Turkey"){ echo "selected"; } ?>" value="Turkey">Turkey</option>
+						  <option selected="<?php if($_POST['map_country'] == "Turkmenistan"){ echo "selected"; } ?>" value="Turkmenistan">Turkmenistan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Turks and Caicos Islands"){ echo "selected"; } ?>" value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Tuvalu"){ echo "selected"; } ?>" value="Tuvalu">Tuvalu</option>
+						  <option selected="<?php if($_POST['map_country'] == "Uganda"){ echo "selected"; } ?>" value="Uganda">Uganda</option>
+						  <option selected="<?php if($_POST['map_country'] == "Ukraine"){ echo "selected"; } ?>" value="Ukraine">Ukraine</option>
+						  <option selected="<?php if($_POST['map_country'] == "United Arab Emirates"){ echo "selected"; } ?>" value="United Arab Emirates">United Arab Emirates</option>
+						  <option selected="<?php if($_POST['map_country'] == "United Kingdom"){ echo "selected"; } ?>" value="United Kingdom">United Kingdom</option>
+						  <option selected="<?php if($_POST['map_country'] == "United States"){ echo "selected"; } ?>" value="United States">United States</option>
+						  <option selected="<?php if($_POST['map_country'] == "United States Minor Outlying Islands"){ echo "selected"; } ?>" value="United States Minor Outlying Islands">United States Minor Outlying Islands</option>
+						  <option selected="<?php if($_POST['map_country'] == "Uruguay"){ echo "selected"; } ?>" value="Uruguay">Uruguay</option>
+						  <option selected="<?php if($_POST['map_country'] == "Uzbekistan"){ echo "selected"; } ?>" value="Uzbekistan">Uzbekistan</option>
+						  <option selected="<?php if($_POST['map_country'] == "Vanuatu"){ echo "selected"; } ?>" value="Vanuatu">Vanuatu</option>
+						  <option selected="<?php if($_POST['map_country'] == "Venezuela"){ echo "selected"; } ?>" value="Venezuela">Venezuela</option>
+						  <option selected="<?php if($_POST['map_country'] == "Viet Nam"){ echo "selected"; } ?>" value="Viet Nam">Viet Nam</option>
+						  <option selected="<?php if($_POST['map_country'] == "Virgin Islands, British"){ echo "selected"; } ?>" value="Virgin Islands, British">Virgin Islands, British</option>
+						  <option selected="<?php if($_POST['map_country'] == "Virgin Islands, U.S."){ echo "selected"; } ?>" value="Virgin Islands, U.S.">Virgin Islands, U.S.</option>
+						  <option selected="<?php if($_POST['map_country'] == "Wallis and Futuna"){ echo "selected"; } ?>" value="Wallis and Futuna">Wallis and Futuna</option>
+						  <option selected="<?php if($_POST['map_country'] == "Western Sahara"){ echo "selected"; } ?>" value="Western Sahara">Western Sahara</option>
+						  <option selected="<?php if($_POST['map_country'] == "Yemen"){ echo "selected"; } ?>" value="Yemen">Yemen</option>
+						  <option selected="<?php if($_POST['map_country'] == "Zambia"){ echo "selected"; } ?>" value="Zambia">Zambia</option>
+						  <option selected="<?php if($_POST['map_country'] == "Zimbabwe"){ echo "selected"; } ?>" value="Zimbabwe">Zimbabwe</option>
